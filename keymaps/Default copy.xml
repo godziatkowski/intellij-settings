@@ -16,6 +16,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ShowFilterPopup" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
