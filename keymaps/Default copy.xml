@@ -14,7 +14,6 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
-  <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -32,4 +31,11 @@
   <action id="ShowFilterPopup" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
