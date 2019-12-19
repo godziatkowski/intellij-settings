@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="darkTitleBar" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="c6ff00" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="4f947b31:167d05d74b7:-8000" />
-    <option name="version" value="4.9.2.1" />
+    <option name="version" value="4.11.4" />
   </component>
 </application>
