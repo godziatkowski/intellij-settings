@@ -3,15 +3,12 @@
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping pattern="config" type="JSON" />
-      <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
