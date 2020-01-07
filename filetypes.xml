@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
-      <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping pattern="config" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="*Jenkinsfile*" type="Groovy" />
     </extensionMap>
   </component>
 </application>
