@@ -5,8 +5,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581190638016" />
-              <option name="times" value="2" />
+              <option name="last" value="1581192983645" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -26,11 +26,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Docker.RemoteServers.StopComposeApp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581192706976" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581190648666" />
-              <option name="times" value="3" />
+              <option name="last" value="1581193045845" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +53,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581190611259" />
-              <option name="times" value="7" />
+              <option name="last" value="1581192951932" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +77,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581190635558" />
-              <option name="times" value="4" />
+              <option name="last" value="1581192741149" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +109,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581190640359" />
-              <option name="times" value="4" />
+              <option name="last" value="1581193000719" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -146,6 +154,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Maven.Reimport">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581193028142" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NextTemplateVariable">
           <value>
             <ActionSummary>
@@ -173,8 +189,16 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581191162971" />
-              <option name="times" value="3" />
+              <option name="last" value="1581193162707" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowIntentionActions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581192990160" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -190,6 +214,22 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581191178322" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.docker.DockerRunLineMarkerProviderBase$RunExistingRunConfig">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581192713146" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.docker.composeFile.ComposeFileRunLineMarkerProvider$UpOneServiceAsTemporaryAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581192692291" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -213,8 +253,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581191170796" />
-              <option name="times" value="3" />
+              <option name="last" value="1581193164687" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
