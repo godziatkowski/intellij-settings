@@ -477,16 +477,16 @@
         <entry key="OptimizeImports">
           <value>
             <ActionSummary>
-              <option name="last" value="1581276167608" />
-              <option name="times" value="7" />
+              <option name="last" value="1581459371485" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581458129400" />
-              <option name="times" value="121" />
+              <option name="last" value="1581459358957" />
+              <option name="times" value="122" />
             </ActionSummary>
           </value>
         </entry>
@@ -503,6 +503,14 @@
             <ActionSummary>
               <option name="last" value="1581253979025" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Rerun">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581459376109" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +605,8 @@
         <entry key="com.intellij.docker.DockerRunLineMarkerProviderBase$RunExistingRunConfig">
           <value>
             <ActionSummary>
-              <option name="last" value="1581458711059" />
-              <option name="times" value="2" />
+              <option name="last" value="1581459103909" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +653,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581454705994" />
-              <option name="times" value="8" />
+              <option name="last" value="1581459369867" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +685,8 @@
         <entry key="com.intellij.openapi.ui.DialogWrapper$5">
           <value>
             <ActionSummary>
-              <option name="last" value="1581458059698" />
-              <option name="times" value="5" />
+              <option name="last" value="1581459372783" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
