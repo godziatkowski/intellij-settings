@@ -53,8 +53,8 @@
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
-              <option name="last" value="1581252000382" />
-              <option name="times" value="2" />
+              <option name="last" value="1581458708073" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="com.intellij.docker.DockerRunLineMarkerProviderBase$RunExistingRunConfig">
           <value>
             <ActionSummary>
-              <option name="last" value="1581192713146" />
-              <option name="times" value="1" />
+              <option name="last" value="1581458711059" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
