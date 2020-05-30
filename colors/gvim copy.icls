@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T12:22:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-14T12:24:41</property>
+    <property name="modified">2020-05-31T00:11:36</property>
     <property name="originalScheme">gvim</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -554,27 +554,27 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ff0700" />
+        <option name="FOREGROUND" value="ffac" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="43ff" />
+        <option name="FOREGROUND" value="60ff00" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="f800f0" />
+        <option name="FOREGROUND" value="f3f800" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="11ff00" />
+        <option name="FOREGROUND" value="ff7400" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="e0fe" />
+        <option name="FOREGROUND" value="fe2000" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
