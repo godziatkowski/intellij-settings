@@ -19,6 +19,7 @@
   <PostgresCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
+    <option name="ROUTINE_ARG_COMMA" value="2" />
   </PostgresCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
