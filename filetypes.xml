@@ -6,6 +6,7 @@
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping pattern="config" type="JSON" />
       <mapping pattern="address_index_mapping" type="JSON" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="address_index_mapping.json" type="PLAIN_TEXT" />
