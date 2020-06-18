@@ -61,6 +61,37 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.7 (iris-overlay-mask-generator) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files (x86)/Python3/DLLs" />
+        <root url="file://C:/Program Files (x86)/Python3/Lib" />
+        <root url="file://C:/Program Files (x86)/Python3" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/iris-overlay-mask-generator" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/iris-overlay-mask-generator/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/-424720904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files (x86)/Python3/DLLs" />
+        <root url="file://C:/Program Files (x86)/Python3/Lib" />
+        <root url="file://C:/Program Files (x86)/Python3" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/iris-overlay-mask-generator" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/iris-overlay-mask-generator/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/-424720904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (libs) interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python3/DLLs" />
@@ -126,6 +157,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>

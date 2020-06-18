@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T12:22:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-31T00:11:36</property>
+    <property name="modified">2020-06-18T16:37:49</property>
     <property name="originalScheme">gvim</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -550,6 +550,49 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="2359ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e0fe" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ab00ff" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ff00ff" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="ff00ff" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="fc92f5" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="eaea" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
