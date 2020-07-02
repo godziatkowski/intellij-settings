@@ -10,9 +10,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="address_index_mapping.json" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
