@@ -61,14 +61,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.7 (algorithm_id_filling_script) interpreter library">
+    <library name="Python 3.7 (iris-new-infra) (2) interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python3/DLLs" />
         <root url="file://C:/Program Files (x86)/Python3/Lib" />
         <root url="file://C:/Program Files (x86)/Python3" />
-        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/algorithm_id_filling_script" />
-        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/algorithm_id_filling_script/Lib/site-packages" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/1310215202" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-new-infra/scripts/AR-workflow-algorithm_id-filling-scripts/venv" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-new-infra/scripts/AR-workflow-algorithm_id-filling-scripts/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/1416217168" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -81,9 +81,9 @@
         <root url="file://C:/Program Files (x86)/Python3/DLLs" />
         <root url="file://C:/Program Files (x86)/Python3/Lib" />
         <root url="file://C:/Program Files (x86)/Python3" />
-        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/algorithm_id_filling_script" />
-        <root url="file://$USER_HOME$/Documents/iris/project/iris-computation/algorithm_id_filling_script/Lib/site-packages" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/1310215202" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-new-infra/scripts/AR-workflow-algorithm_id-filling-scripts/venv" />
+        <root url="file://$USER_HOME$/Documents/iris/project/iris-new-infra/scripts/AR-workflow-algorithm_id-filling-scripts/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/1416217168" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
