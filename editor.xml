@@ -29,6 +29,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="TodoConfiguration">
