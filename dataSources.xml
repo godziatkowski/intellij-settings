@@ -1,0 +1,76 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="eks-dev-ar" group="eks-dev" uuid="be486565-d34e-46da-a9c6-09fdbb584669">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/iris_dev_iris_analysis_results_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-dev-dp-content" group="eks-dev" uuid="086ec598-a1b8-4766-b534-5074ad6f4aa2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/iris_dev_iris_dp_content_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-cc-dp-content" group="eks-cc" uuid="e646a274-c418-4db6-871b-971120b1d784">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/cc_iris_dp_content_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-dev-ao" group="eks-dev" uuid="3eff4268-376f-45ce-8d12-74ecc279a4d2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/iris_dev_iris_analysis_orchestrator_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-dev-study" group="eks-dev" uuid="7c41a171-ea7f-4b39-b9c3-32b52f6ed3ae">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/iris_dev_iris_study_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-ff-dp-content" group="eks-ff" uuid="871ffd2b-22d6-431c-a372-d8657e4fd5ba">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/ff_iris_dp_content_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-cc--ar" group="eks-cc" uuid="95315c24-2a2b-4795-92c0-98da5edcd833">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/cc_iris_analysis_results_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-ff-ar" group="eks-ff" uuid="f04a5e3c-42a2-4efe-af4d-7c1aaf294007">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/ff_iris_analysis_results_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-ff-study" group="eks-ff" uuid="a3b5c7fe-9c5d-49fb-ba29-43c99d139557">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/ff_iris_study_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-cc-study" group="eks-cc" uuid="1f9a895e-4e94-4ae2-9000-8f39d784877b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/cc_iris_study_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-cc-ac" group="eks-cc" uuid="25401425-a821-4696-a3ec-b2d7b782b1f5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/cc_iris_algorithm_catalog_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-dev-ac" group="eks-dev" uuid="5c418f9b-4184-4caf-9c86-323940514fc8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/cc_iris_algorithm_catalog_db</jdbc-url>
+    </data-source>
+  </component>
+</application>
