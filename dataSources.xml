@@ -48,5 +48,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/ff_iris_algorithm_catalog_db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="eks-rr-dp-content" group="eks-ff" uuid="add2b6b4-d1a5-491b-9527-585a7157ba0f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/rr_iris_dp_content_db</jdbc-url>
+    </data-source>
   </component>
 </application>
