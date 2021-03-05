@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T12:22:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-10-15T16:28:09</property>
+    <property name="modified">2021-03-05T16:05:15</property>
     <property name="originalScheme">gvim</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -577,8 +577,14 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="2359ff" />
+        <option name="FOREGROUND" value="6ff6" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="6ff6" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
