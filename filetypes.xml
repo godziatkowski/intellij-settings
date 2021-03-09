@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping pattern="address_index_mapping" type="JSON" />
       <mapping pattern="config" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="address_index_mapping.json" type="PLAIN_TEXT" />
       <mapping ext="dcm" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
