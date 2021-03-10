@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T12:22:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2021-03-05T16:05:15</property>
+    <property name="modified">2021-03-10T21:19:58</property>
     <property name="originalScheme">gvim</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,6 +15,7 @@
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="555753" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="DOCUMENTATION_COLOR" value="282b2d" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -32,9 +33,15 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="757575" />
+    <option name="INFORMATION_HINT" value="568654" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="e34868c" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="1c49a08c" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="24376e8c" />
     <option name="LINE_NUMBERS_COLOR" value="555753" />
     <option name="METHOD_SEPARATORS_COLOR" value="555753" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="PROMOTION_PANE" value="28353b" />
+    <option name="QUESTION_HINT" value="28353b" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="d0d0d0" />
@@ -103,6 +110,11 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2b91af" />
+      </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value>
+        <option name="EFFECT_COLOR" value="343434" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -279,7 +291,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="cfbfad" />
+        <option name="FOREGROUND" value="b8bdd7" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -497,8 +509,20 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
-        <option name="BACKGROUND" value="6d6d6d" />
+        <option name="FOREGROUND" value="4ae509" />
+        <option name="BACKGROUND" value="6c00c3" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="4ae509" />
+        <option name="BACKGROUND" value="6c00c3" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="b8bdd7" />
+        <option name="BACKGROUND" value="f12828" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
