@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="3.232.74.42" id="5d7bc226-9cdf-40a3-adca-80f5831b7b01" keyPath="C:\Users\godziatj\.ssh\iris-admin.ppk" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="ec2-3-232-74-42.compute-1.amazonaws.com" id="5d7bc226-9cdf-40a3-adca-80f5831b7b01" keyPath="C:\Users\godziatj\.ssh\iris-eng-readonly.ppk" port="22" nameFormat="DESCRIPTIVE" username="eng_readonly" />
     </configs>
   </component>
 </application>
