@@ -11,6 +11,8 @@
   </MarkdownNavigatorCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
     <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
