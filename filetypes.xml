@@ -5,6 +5,7 @@
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
       <mapping pattern="address_index_mapping" type="JSON" />
       <mapping pattern="config" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="address_index_mapping.json" type="PLAIN_TEXT" />
