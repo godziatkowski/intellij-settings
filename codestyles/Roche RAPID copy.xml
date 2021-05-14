@@ -1,5 +1,6 @@
 <code_scheme name="Roche RAPID copy" version="173">
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="2" />
@@ -13,6 +14,9 @@
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="INSERT_OPENING" value="3" />
+    <option name="INSERT_EL_WRAP" value="0" />
+    <option name="WITH_ALIGN_AS" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
