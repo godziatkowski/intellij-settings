@@ -1,6 +1,5 @@
 <code_scheme name="Roche RAPID copy" version="173">
   <option name="RIGHT_MARGIN" value="100" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="2" />
