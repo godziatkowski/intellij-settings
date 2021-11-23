@@ -53,6 +53,7 @@
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
           <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
