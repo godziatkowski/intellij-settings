@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T12:22:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2021-08-19T15:08:52</property>
+    <property name="modified">2021-12-09T12:03:34</property>
     <property name="originalScheme">gvim</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -37,6 +37,7 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="34868c" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="1c49a08c" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="24376e8c" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="ffffff" />
     <option name="LINE_NUMBERS_COLOR" value="555753" />
     <option name="METHOD_SEPARATORS_COLOR" value="969689" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -538,6 +539,11 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2b91af" />
+      </value>
+    </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="FOREGROUND" value="3a5337" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
