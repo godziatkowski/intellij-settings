@@ -101,5 +101,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" />
       </SOURCES>
     </library>
+    <library name="Python 3.9 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
