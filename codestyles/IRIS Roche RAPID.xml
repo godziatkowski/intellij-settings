@@ -1,5 +1,4 @@
 <code_scheme name="IRIS Roche RAPID" version="173">
-  <option name="RIGHT_MARGIN" value="100" />
   <JavaCodeStyleSettings>
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
     <option name="ANNOTATION_PARAMETER_WRAP" value="2" />
