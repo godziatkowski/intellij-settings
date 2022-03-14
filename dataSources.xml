@@ -72,5 +72,29 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/rr_iris_algorithm_catalog_db</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="eks-hh-ar" group="eks-hh" uuid="1bff7583-bd25-4083-8fd4-6117f7b4f322">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/hh_iris_analysis_results_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-hh-dp-content" group="eks-hh" uuid="9e1c07cd-a96d-47f6-8c7a-8ae73227595d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/hh_iris_dp_content_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-hh-ao" group="eks-hh" uuid="8ddcf659-2636-4604-b362-9432a0b89b76">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/hh_iris_analysis_orchestrator_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="eks-hh-ac" group="eks-hh" uuid="4faf11b2-1f4e-4085-abfc-91cc275fd08c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://iris-dev-us-east-1-aurora-20191202031419462400000004.cluster-c8k71c9shdhy.us-east-1.rds.amazonaws.com:5432/hh_iris_algorithm_catalog_db</jdbc-url>
+    </data-source>
   </component>
 </application>
