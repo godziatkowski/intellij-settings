@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping pattern="*Jenkinsfile*" type="Groovy" />
+      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping pattern="address_index_mapping" type="JSON" />
       <mapping pattern="config" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -10,6 +11,16 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="address_index_mapping.json" type="PLAIN_TEXT" />
       <mapping ext="dcm" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap-**.properties" type="Properties" />
+      <mapping pattern="application-**.properties" type="Properties" />
+      <mapping pattern="application.properties" type="Properties" />
+      <mapping pattern="bootstrap.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
+      <mapping pattern="application-**.y**ml" type="YAML" />
+      <mapping pattern="application.yml" type="YAML" />
+      <mapping pattern="application.yaml" type="YAML" />
+      <mapping pattern="bootstrap.yaml" type="YAML" />
+      <mapping pattern="bootstrap.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
